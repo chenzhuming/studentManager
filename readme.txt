@@ -1,0 +1,1 @@
+使用idea maven搭建structs+hiberante
